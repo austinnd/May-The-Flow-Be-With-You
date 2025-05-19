@@ -29,7 +29,9 @@ I focused on blending simplicity and surprise — it’s a fast-paced game, easy
 
 
 # 🔒 Week 3 — TBA
-Working on something new for this week. Concept locked in, dev in progress.
+Theme: Generative Art and Worlds
+
+...
 
 
 

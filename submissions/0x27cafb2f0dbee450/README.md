@@ -1,5 +1,5 @@
 # Flow Hackathon Submission Log
-Challenge: May the Flow Be With You (2025)
+Challenge: May the Flow Be With You (May, 2025)
 
 - Participant: Austin Delger
 - Flow Address: 0x27cafb2f0dbee450
